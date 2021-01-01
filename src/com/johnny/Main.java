@@ -3,6 +3,7 @@ package com.johnny;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("11111");
+        Demo1 demo1 = new Demo1();
+        demo1.test();
     }
 }
